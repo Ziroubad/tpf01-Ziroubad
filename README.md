@@ -7,9 +7,9 @@ Vous devez créer un calculateur de dépenses en cafés par employé par semaine
 Le prix d’un café est de 2,50$. Tam Horton prévoit une hausse des prix du café dans les prochaines semaines. Le système doit donc tenir compte de cette possible fluctuation des prix du café afin d’ajuster le calculateur dans le futur.
 
 ## Résultat attendu
-Voir image...
+*Voir image pour plus de détails...*
 
-## Textuellement
+### Textuellement
 « Toto Bougon boit 10 café(s) par jour et travail 1 jour(s) par semaine. Un café coute 2.5$, ce qui fait engager une dépense totale de 25$ par semaine à Toto. »
 
 ## Les outils
@@ -21,6 +21,8 @@ Le formulaire est déjà intégré et est accompagné d’une petite librairie J
 * TPF01.getWorkedDays()
 * TPF01.displayResult(...)
 * TPF01.attachClick(...)
+
+*Voir tableau pour plus de détails...*
 
 ## Livrables
 1.	Une liste des étapes à suivre afin de réaliser le travail : une liste de tâches. En suivant votre liste de tâches, faites le TP et n’hésitez pas à ajouter des tâches à votre liste si vous remarquez que vous en aviez oublié.
